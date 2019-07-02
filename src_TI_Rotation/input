@@ -1,0 +1,30 @@
+1	Random number seed
+1	0 to start randomly, 1 to read checkpoint
+500000	Number of Monte Carlo Cycles
+0000	Number of Equilibration Cycles
+0000	Number of Annealing Cycles
+1	Interval after which data is outputted
+1	Interval after which checkpoint file is made
+1.0	Fraction of displace moves
+0.0	Fraction of rotation moves
+0.0	Fraction of translate moves
+0.0	Fraction of molecule rotation moves
+30.0	Box length in x direction
+30.0	Box length in y direction
+15.0	Box length in z direction
+0.08 Standard deviation of gaussian density cloud
+0.24 cutoff for gaussian density cloud
+0.12 Grid width in x direction
+0.12 Grid width in y direction
+0.12 Grid width in z direction
+0.0  Flory Huggins Chi parameter
+0.5   Kappa Compressibility Parameter
+0.0    Alignment mu term
+0.0    Chiral Term
+0      Wall in the z direction?
+0.2    Maximum displacement distance
+1.0    Maximum translation distance
+0.5    Maximum rotation angle
+0.5    Maximum molecule rotation angle
+1    Thermodynamic Integration Sampling Interval
+0.025   Shift for thermodynamic integration
